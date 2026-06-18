@@ -81,9 +81,10 @@ Great teams are built through clarity, not confusion.
 Onboard Hub aims to redefine how modern organizations welcome and train talent.
 
 ---
-
 ## 👥 Team
 
-Built by **Vinay Sathwik, Jignesh, and Sasidhar B**
+Built collaboratively by:
 
----
+* **Sasidhar B**
+* **Vinay Sathwik**
+* **Jignesh**
