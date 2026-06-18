@@ -1,76 +1,99 @@
-# Fresher Onboarding Platform 🚀
+<p align="center">
+  <img src="./banner.png" width="100%" alt="Onboard Hub Banner"/>
+</p>
 
-This project is a RAG-based AI and mentor-assisted onboarding platform designed to help freshers ramp up faster using company knowledge, learning modules, and human guidance.
+<h1 align="center">Onboard Hub</h1>
 
-## 🎯 Problem Statement
-Onboarding new hires, especially freshers, is a critical but often inefficient process. Freshers struggle with:
-- **Information Overload:** scattered documentation.
-- **Mentor Availability:** mentors are busy and can't answer repetitive questions.
-- **Lack of Structure:** unclear learning paths.
+<p align="center">
+  AI-Powered Employee Onboarding Platform
+</p>
 
-## 💡 Solution: AI + Mentor Hybrid Approach
-We combine the power of AI with human mentorship:
-1.  **RAG-based AI Assistant:** Answers 80% of queries instantly using internal company documents (via Ollama/Gemini).
-2.  **Human Mentor Loop:** Complex or sensitive questions are routed to a human mentor.
-3.  **Structured Learning:** Role-based modules with progress tracking.
-
-## 🛠️ Tech Stack
--   **Frontend:** HTML, CSS, JavaScript (Vanilla)
--   **Backend:** Node.js, Express.js
--   **Database:** MongoDB (with specialized schemas for RAG)
--   **AI:** 
-    -   **Ollama (Local):** Primary LLM for privacy and speed.
-    -   **Gemini (Cloud):** Fallback for general knowledge.
--   **Architecture:** Retrieval-Augmented Generation (RAG)
-
-## 🚀 How to Run Locally
-
-### Prerequisites
--   Node.js installed
--   MongoDB installed and running locally on default port (27017)
--   (Optional) Ollama running locally for AI features (`ollama serve`)
-
-### Steps
-1.  **Clone the Repository**
-    ```bash
-    git clone <repo-url>
-    cd <repo-folder>
-    ```
-
-2.  **Install Dependencies**
-    ```bash
-    npm install
-    ```
-
-3.  **Configure Environment**
-    - Ensure there is a `.env` file in the root directory.
-    - Set `MONGO_URI` and `GEMINI_API_KEY`.
-
-4.  **Seed the Database**
-    Populate the database with sample data (Users, Modules, Docs, FAQs):
-    ```bash
-    npm run seed
-    ```
-
-5.  **Start the Server**
-    ```bash
-    npm start
-    ```
-    The server will start on `http://localhost:5000`.
-
-6.  **Access the Application**
-    Open your browser and navigate to:
-    [http://localhost:5000](http://localhost:5000)
-
-### Login Credentials (Demo)
--   **Fresher:** `fresher@company.com` (No password required for demo)
--   **Mentor:** `mentor@company.com`
-
-## 🔮 Future Improvements
--   **Vector Database:** Switch from regex search to a true vector store (like Pinecone or MongoDB Atlas Vector Search) for better semantic understanding.
--   **Real-time Chat:** Implement WebSockets (Socket.io) for live mentor messaging.
--   **Admin Dashboard:** UI for uploading documents and managing users.
--   **Mobile App:** React Native version for on-the-go access.
+<p align="center">
+  Streamlining onboarding through intelligent guidance, structured learning, and centralized knowledge
+</p>
 
 ---
-**Hackathon Use Only** - Built with ❤️ for better onboarding.
+
+## Overview
+
+Onboard Hub is a smart onboarding platform built to help new employees ramp up faster.
+
+Instead of fragmented documents, repeated mentor calls, and slow onboarding cycles, Onboard Hub creates a centralized experience powered by AI and structured learning.
+
+---
+
+## Problem
+
+Traditional onboarding is broken.
+
+- Information is scattered across documents and chats  
+- Mentors repeatedly answer the same questions  
+- New hires struggle with direction and clarity  
+- Learning progress is difficult to track  
+
+This creates friction, slows productivity, and weakens onboarding quality.
+
+---
+
+## Solution
+
+Onboard Hub solves this through a hybrid AI + mentor approach.
+
+The platform combines intelligent assistance with structured onboarding workflows to create a smoother learning experience.
+
+---
+
+## Core Features
+
+### AI Assistant
+Instantly answers onboarding queries using internal knowledge.
+
+### Knowledge Base
+Centralized documentation and learning resources.
+
+### Learning Modules
+Structured onboarding paths for faster adaptation.
+
+### Progress Tracking
+Track learning milestones and onboarding completion.
+
+### Mentor Support
+Escalate complex questions to human mentors.
+
+---
+
+## Tech Stack
+
+**Frontend**  
+HTML • CSS • JavaScript  
+
+**Backend**  
+Node.js • Express.js  
+
+**Database**  
+MongoDB  
+
+**AI Integration**  
+Gemini / Ollama  
+
+---
+
+## Project Vision
+
+We believe onboarding should feel guided, intelligent, and frictionless.
+
+Great teams are built through clarity, not confusion.
+
+Onboard Hub aims to redefine how modern organizations welcome and train talent.
+
+---
+
+## Team
+
+Built by **Sasidhar Borra and Team**
+
+---
+
+<p align="center">
+  Built with ambition 🚀
+</p>
