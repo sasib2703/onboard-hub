@@ -1,20 +1,9 @@
 <p align="center">
-  <img src="./banner.png" width="100%" alt="Onboard Hub Banner"/>
+  <img src="./image.png" width="100%" alt="Onboard Hub Banner"/>
 </p>
-
-<h1 align="center">Onboard Hub</h1>
-
-<p align="center">
-  AI-Powered Employee Onboarding Platform
-</p>
-
-<p align="center">
-  Streamlining onboarding through intelligent guidance, structured learning, and centralized knowledge
-</p>
-
 ---
 
-## Overview
+## 📌 Overview
 
 Onboard Hub is a smart onboarding platform built to help new employees ramp up faster.
 
@@ -22,20 +11,20 @@ Instead of fragmented documents, repeated mentor calls, and slow onboarding cycl
 
 ---
 
-## Problem
+## 🎯 Problem
 
 Traditional onboarding is broken.
 
-- Information is scattered across documents and chats  
-- Mentors repeatedly answer the same questions  
-- New hires struggle with direction and clarity  
-- Learning progress is difficult to track  
+* Information is scattered across documents and chats
+* Mentors repeatedly answer the same questions
+* New hires struggle with direction and clarity
+* Learning progress is difficult to track
 
 This creates friction, slows productivity, and weakens onboarding quality.
 
 ---
 
-## Solution
+## 💡 Solution
 
 Onboard Hub solves this through a hybrid AI + mentor approach.
 
@@ -43,42 +32,47 @@ The platform combines intelligent assistance with structured onboarding workflow
 
 ---
 
-## Core Features
+## ⚡ Core Features
 
-### AI Assistant
+### 🤖 AI Assistant
+
 Instantly answers onboarding queries using internal knowledge.
 
-### Knowledge Base
+### 📚 Knowledge Base
+
 Centralized documentation and learning resources.
 
-### Learning Modules
+### 🧠 Learning Modules
+
 Structured onboarding paths for faster adaptation.
 
-### Progress Tracking
+### 📈 Progress Tracking
+
 Track learning milestones and onboarding completion.
 
-### Mentor Support
+### 👨‍🏫 Mentor Support
+
 Escalate complex questions to human mentors.
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
-**Frontend**  
-HTML • CSS • JavaScript  
+**Frontend**
+HTML • CSS • JavaScript
 
-**Backend**  
-Node.js • Express.js  
+**Backend**
+Node.js • Express.js
 
-**Database**  
-MongoDB  
+**Database**
+MongoDB
 
-**AI Integration**  
-Gemini / Ollama  
+**AI Integration**
+Gemini / Ollama
 
 ---
 
-## Project Vision
+## 🚀 Project Vision
 
 We believe onboarding should feel guided, intelligent, and frictionless.
 
@@ -88,12 +82,8 @@ Onboard Hub aims to redefine how modern organizations welcome and train talent.
 
 ---
 
-## Team
+## 👥 Team
 
-Built by **Sasidhar Borra and Team**
+Built by **Vinay Sathwik, Jignesh, and Sasidhar B**
 
 ---
-
-<p align="center">
-  Built with ambition 🚀
-</p>
